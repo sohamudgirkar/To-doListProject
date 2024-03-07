@@ -2,7 +2,7 @@
 
 This is a simple To-do list web application built using React.js and Material UI. It allows users to add, remove, and mark tasks as completed.
 
-use this link for demo [https://snazzy-pasca-755132.netlify.app/] 
+To facilitate the demonstration, [To-do](https://snazzy-pasca-755132.netlify.app/) 
 
 ## Features
 
@@ -47,7 +47,7 @@ use this link for demo [https://snazzy-pasca-755132.netlify.app/]
 - Add a new task by typing in the input field and pressing Enter or clicking the "Add" button.
 - Mark a task as completed by clicking the checkbox next to it.
 - Delete a task by clicking the delete icon.
-- To delete all completed tasks, click the "Clear Completed" button.
+
 
 ## Contributing
 

@@ -2,7 +2,7 @@
 
 This is a simple To-do list web application built using React.js and Material UI. It allows users to add, remove, and mark tasks as completed.
 
-To facilitate the demonstration, [To-do](https://snazzy-pasca-755132.netlify.app/) 
+To facilitate the demonstration, [To-do](https://sohamtodosapp.netlify.app/) 
 
 ## Features
 
